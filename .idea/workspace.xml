@@ -22,12 +22,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="masterbranch" />
-                    <option name="lastUsedInstant" value="1612380200" />
-                  </RecentBranch>
-                  <RecentBranch>
                     <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1612380199" />
+                    <option name="lastUsedInstant" value="1612383239" />
                   </RecentBranch>
                 </list>
               </option>
@@ -183,7 +179,7 @@
       <workItem from="1612170855926" duration="7031000" />
       <workItem from="1612210324492" duration="15619000" />
       <workItem from="1612289718640" duration="16887000" />
-      <workItem from="1612379617764" duration="3436000" />
+      <workItem from="1612379617764" duration="4381000" />
     </task>
     <servers />
   </component>
