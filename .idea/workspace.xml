@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac34960a-88c0-41bd-99d1-804434589dd6" name="Default Changelist" comment="Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="masterbranch" />
+                    <option name="lastUsedInstant" value="1612380200" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1612380199" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lNLu6WINYe8KUVoZoIg34qtGoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.19.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Diploma" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="D:\ForWindows\restaurantFullStackApp\client\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac34960a-88c0-41bd-99d1-804434589dd6" name="Default Changelist" comment="" />
+      <created>1607432821862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607432821862</updated>
+      <workItem from="1607432823350" duration="6700000" />
+      <workItem from="1607501974374" duration="3072000" />
+      <workItem from="1607516799006" duration="1537000" />
+      <workItem from="1607518461326" duration="704000" />
+      <workItem from="1607519186091" duration="36000" />
+      <workItem from="1607519624639" duration="472000" />
+      <workItem from="1607520119975" duration="34000" />
+      <workItem from="1607520179949" duration="26000" />
+      <workItem from="1607520222215" duration="2586000" />
+      <workItem from="1607584849641" duration="2518000" />
+      <workItem from="1607612855021" duration="9279000" />
+      <workItem from="1607632564197" duration="316000" />
+      <workItem from="1607676684088" duration="3474000" />
+      <workItem from="1607718229517" duration="1627000" />
+      <workItem from="1607857427254" duration="1278000" />
+      <workItem from="1607938043492" duration="16448000" />
+      <workItem from="1608107069452" duration="3042000" />
+      <workItem from="1608111169209" duration="313000" />
+      <workItem from="1608111564436" duration="780000" />
+      <workItem from="1608112442499" duration="10757000" />
+      <workItem from="1608200369906" duration="2171000" />
+      <workItem from="1608231442382" duration="86000" />
+      <workItem from="1608234864187" duration="8580000" />
+      <workItem from="1608301913142" duration="1182000" />
+      <workItem from="1608318373370" duration="2070000" />
+      <workItem from="1608372451536" duration="17138000" />
+      <workItem from="1608661572991" duration="9521000" />
+      <workItem from="1608713775045" duration="15062000" />
+      <workItem from="1608887379141" duration="7048000" />
+      <workItem from="1608899439199" duration="12223000" />
+      <workItem from="1609057164033" duration="1826000" />
+      <workItem from="1609139636349" duration="1191000" />
+      <workItem from="1609147926364" duration="1219000" />
+      <workItem from="1609169550743" duration="963000" />
+      <workItem from="1609171536956" duration="373000" />
+      <workItem from="1609268197598" duration="1235000" />
+      <workItem from="1609313079657" duration="22000" />
+      <workItem from="1609357179231" duration="288000" />
+      <workItem from="1609370145976" duration="39000" />
+      <workItem from="1609372335691" duration="621000" />
+      <workItem from="1609678414472" duration="2698000" />
+      <workItem from="1609687451139" duration="5000" />
+      <workItem from="1609693266471" duration="2162000" />
+      <workItem from="1609859321795" duration="587000" />
+      <workItem from="1609940951934" duration="1255000" />
+      <workItem from="1609966519152" duration="2255000" />
+      <workItem from="1610124188098" duration="1936000" />
+      <workItem from="1610126958582" duration="759000" />
+      <workItem from="1610128833578" duration="13238000" />
+      <workItem from="1610222217189" duration="3245000" />
+      <workItem from="1610307636945" duration="1786000" />
+      <workItem from="1610395804330" duration="3090000" />
+      <workItem from="1610402083424" duration="3839000" />
+      <workItem from="1610439134358" duration="1518000" />
+      <workItem from="1610464535440" duration="2116000" />
+      <workItem from="1610482603229" duration="1476000" />
+      <workItem from="1610486073869" duration="1466000" />
+      <workItem from="1610488367472" duration="3742000" />
+      <workItem from="1610539564832" duration="19000" />
+      <workItem from="1610541131342" duration="1034000" />
+      <workItem from="1610547615601" duration="6427000" />
+      <workItem from="1610575378298" duration="3000" />
+      <workItem from="1610738536143" duration="945000" />
+      <workItem from="1610831225431" duration="81000" />
+      <workItem from="1610889945282" duration="1457000" />
+      <workItem from="1611069299662" duration="594000" />
+      <workItem from="1611137046056" duration="10041000" />
+      <workItem from="1611155708178" duration="3056000" />
+      <workItem from="1611178912318" duration="134000" />
+      <workItem from="1611179987719" duration="1140000" />
+      <workItem from="1611228123291" duration="594000" />
+      <workItem from="1611236741778" duration="6459000" />
+      <workItem from="1611266825535" duration="1549000" />
+      <workItem from="1611305443434" duration="661000" />
+      <workItem from="1611314536655" duration="9914000" />
+      <workItem from="1611399755387" duration="1198000" />
+      <workItem from="1611418719033" duration="3465000" />
+      <workItem from="1611490248998" duration="5737000" />
+      <workItem from="1611525401955" duration="3420000" />
+      <workItem from="1611559765112" duration="593000" />
+      <workItem from="1611587589430" duration="10618000" />
+      <workItem from="1611655291367" duration="1537000" />
+      <workItem from="1611923491980" duration="1052000" />
+      <workItem from="1611924640921" duration="3086000" />
+      <workItem from="1612114286912" duration="2503000" />
+      <workItem from="1612170855926" duration="7031000" />
+      <workItem from="1612210324492" duration="15619000" />
+      <workItem from="1612289718640" duration="16887000" />
+      <workItem from="1612379617764" duration="3436000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

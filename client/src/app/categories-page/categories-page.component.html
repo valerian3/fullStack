@@ -1,0 +1,29 @@
+<div class="page-title">
+  <h4>Категорії</h4>
+  <button class="waves-effect waves-light btn grey darken-1"
+  [routerLink]="['/categories', 'new']">
+    Добавити категорію
+  </button>
+</div>
+
+<div class="row" *ngIf="categories$ | async as categories; else loader">
+  <!-- В даному місці через пайп, ми підписуємось на стрім і робимо запит -->
+  <div class="col s12"> <!-- В оператор as ми записуємо результат виконання через пайп. Поки відсутнє завантаження, буде показуватися блок else -->
+    <div class="collection" *ngIf="categories.length; else empty">
+      <a *ngFor="let category of categories" [routerLink]="['/categories', category._id]" class="collection-item">
+        {{category.name}}
+      </a>
+    </div>
+    <ng-template #empty>
+      <div class="center">
+        У вас відсутні категорії
+      </div>
+    </ng-template>
+  </div>
+</div>
+
+
+<ng-template #loader>
+  <app-loader></app-loader>
+</ng-template>
+
